@@ -1,2 +1,2 @@
-# cpp-brendi
+# c-brendi
 
